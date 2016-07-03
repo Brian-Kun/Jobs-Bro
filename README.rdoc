@@ -2,11 +2,13 @@
 
 This is a jobs board web app built using ruby on rails. 
 
+ 
 Home Page
-![alt tag](http://imgur.com/sC58RDN)
+<img src="http://imgur.com/sC58RDN" />
 
 Add a Job
-![alt tag](http://imgur.com/KXIfJtN)
+<img src="http://imgur.com/KXIfJtN" />
+
 
 Edit a job
-![alt tag](http://imgur.com/Bu0o8Qc)
+<img src="http://imgur.com/Bu0o8Qc" />
