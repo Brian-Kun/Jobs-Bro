@@ -1,14 +1,14 @@
-== Jobs Bro
+
 
 This is a jobs board web app built using ruby on rails. 
 
  
 Home Page
-<img src="http://imgur.com/sC58RDN" >
+http://imgur.com/sC58RDN
 
 Add a Job
-<img src="http://imgur.com/KXIfJtN" />
+http://imgur.com/KXIfJtN" 
 
 
 Edit a job
-<img src="http://imgur.com/Bu0o8Qc" />
+http://imgur.com/Bu0o8Qc"
