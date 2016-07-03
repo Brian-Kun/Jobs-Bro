@@ -4,7 +4,7 @@ This is a jobs board web app built using ruby on rails.
 
  
 Home Page
-<img src="http://imgur.com/sC58RDN" />
+<img src="http://imgur.com/sC58RDN" >
 
 Add a Job
 <img src="http://imgur.com/KXIfJtN" />
